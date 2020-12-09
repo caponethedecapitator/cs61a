@@ -1,2 +1,2 @@
 # cs61a
-coding project based on the cs61a course
+This is the coding project based on the cs61a course
